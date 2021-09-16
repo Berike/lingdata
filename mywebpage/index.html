@@ -16,8 +16,7 @@
     A:link { text-decoration: none; }
     A:visited { text-decoration: none; color: purple}
     A:active { text-decoration: none; }
-    A:hover { 
-     text-decoration: none; 
+    A:hover { text-decoration: none; 
      color: red; 
      font-size: 20px; 
     font-weight: bold; 
@@ -40,27 +39,32 @@
                 </nav> 
             </div>
         </nav>
-
-<!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
-
-        <header style="background-color:olivedrab; padding-top:50px; "> 
+       <header style="background-color:olivedrab; padding-top:50px; "> 
             <div class="container"> 
                 <div class="row">
                     <div class="col-md-4">
                         <br><br>
                         <h1>Рената</h1>
                         <hr> <!-- это горизонтальная линия -->
-                        <p><i>Человек, умеющий кастовать </b></p>  <b> </i> Eldritch BLAST</b></p> 
+                        <p><i>Человек, умеющий</i> <br> <b>кастовать <i>Eldritch BLAST</i></b></p> 
                     </div>
                     <div class="col-md-4">
-<img src="foto.jpg" width="350" height="450"> </img>
+<img src="foto.jpg" width="300" height="400"> </img>
                     </div>
-                </div>
+                    <div class="col-md-3">
+                    <p> <h3>Раса:</h3> <b> Человек</b>  <br>
+                        <h3>Класс:</h3> <b>Чернокнижник</b> </p>
+                    </div>
+             
             </div>
         </header>
         <section id="portfolio">
             <div class="container">
+
+<!-- атрибут col-md-... говорит, что контент будет разделен на несколько столбцов, их ширина соотносится как 3 - 6 - 3 (Bootstrap использует воображаемую сетку из 12 равных по ширине колонок) -->
                 <div class="col-md-3">
+
+<!-- <article> не влияет на оформление, но помогает структурировать контент на осмысленые разделы -->
                     <article>
                         <h3>Место учебы</h2>
                         <p>Высшая Школа Эзотерики, факультет Фундаментального и Прикладного Чернокнижничества </p>
@@ -72,7 +76,7 @@
                     <article>
                         <h3>Школа</h2>
 
-                        <p> Второе Североболотское Церковно-приходское училище им. Св. Шрека </p>
+                        <p> Второе Североболотское Церковно-приходское училище им. Св. Шрека</p>
                     </article>
                 </div>
 
@@ -81,14 +85,14 @@
                         <h3 align="center"> Статы</h2>
                         <p>  <table border="1" width="100%" cellpadding="5">
    <tr>
-    <th>Intelligence</th>
+    <th >Intelligence</th>
     <th>Wisdom</th>
     <th>Strength</th>
     <th>Dexterity</th>
     <th>Constitution</th>
     <th>Charisma</th>
    </tr>
-   <tr>
+   <tr align="center">
     <td>15</td>
     <td>8</td>
     <td>12</td>
@@ -108,10 +112,10 @@
                 </div>
 
                 <div class="col-md-3">
-                    <h3>Я в сетях</h3>
+                    <h3>Способы связи</h3>
                     <ul>
-                        <li> <a href="https://vk.com/tatari.sila.live.krasivo"> ВСоприкосновении</a> </li>
-                        <li> <a href="https://www.instagram.com/mda.dela"> Картинки Срамные </a></li>
+                        <li> <a href="https://vk.com/tatari.sila.live.krasivo"> Контактный</a> </li>
+                        <li> <a href="https://www.instagram.com/mda.dela"> БезКонтактный </a></li>
                     </ul>
                 </div>
             </div>
