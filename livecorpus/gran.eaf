@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T02:15:00+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T11:19:36+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/renat/Desktop/gran.MOV"
             MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="./gran.MOV"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:85941e1c-3a6c-4c7b-80fa-2c043e442acd</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">77</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">78</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="60"/>
@@ -150,7 +150,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>другие все щиплют / ходила когда / э / эту / рожь косить / соби.. снопы вязать //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ноги все щиплют / ходила когда / э / эту / рожь косить / соби.. снопы вязать //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -222,7 +222,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
                 TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE> в карты играли //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> в карты играли! //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -333,7 +333,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
                 TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>ну да / тропка от соломы //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну да / #нрзб# от соломы //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -390,112 +390,112 @@
         PARTICIPANT="@a1930f" TIER_ID="transl@a1930f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>we went to the field / to stir the hay //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We went to the field to stir the hay. </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>earlier / they mowed dowm / aa / and here it lays //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They mowed down everything earlier and here it lays.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>erm / on the next day / it's sun already you go / erm / we all go / to stir it / we turn it over and stir it / for it to dry //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The next day it's sun already and you go, we all go to stir it. We turn it over and stir for it to dry.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>and then / we rake it //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And then we rake it.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>after the war we got rakes //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>After the war we got rakes.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a6">
-                <ANNOTATION_VALUE>they harness the horse and horse is raking / the hay / and one person //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They harness the horse and horse is raking the hay, and one person.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE> everything was done manually //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Earlier everything was done manually .</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>others are plucking / when i went / erm / to mow the hay / to bind the sheaves //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It is pricking your legs. When i went to mow the hay, to bind the sheaves.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>there was left a thing like this // </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>There was left a thing like this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a12">
-                <ANNOTATION_VALUE>yes / it's prickly //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yes, it's prickly.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>and everything / erm / them / are covered in blood / when you wash them / in the evening / you go to the pond for water / you bring a bucket of water / you wash them //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And everything was covered in blood. When you wash them, in the evening, you go to the pond for water, you bring a bucket of water, wash them.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>we all wash / from that bucket // </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We all are washing, from that bucket.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a18">
-                <ANNOTATION_VALUE>and then mother milks a cow / and from the top/ collects the foam //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And then mother milks a cow and collects the foam from the top.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>and we / smear our legs / with foam //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And we smear our legs with foam.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>it really helped //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It helped very well.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>what did we play with / played with dishes / the broken ones //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What did we play with..  Played with dishes, the broken ones.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>plates / broken cups //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Plates, broken cups.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a23">
-                <ANNOTATION_VALUE>collected them and played / *laughter* //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We collected them and played.  *laughter* </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>what did you think we had //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What did you think we had.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a52">
-                <ANNOTATION_VALUE> we played cards //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> We played cards! </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>played checkers //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We played checkers.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a26">
-                <ANNOTATION_VALUE>we had checkers and / erm / cards / and / well we were quite grown up during the war //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>There were checkers and cards, and, well, we were quite grown up during the war.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -504,17 +504,22 @@
         PARTICIPANT="@b1980m" TIER_ID="transl@b1980m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a42">
-                <ANNOTATION_VALUE>well yeah / a path from the hay //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Well yeah, a #inadible# from the hay.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>#simultaneously#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>what did you play with ? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What did you play with?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a45">
-                <ANNOTATION_VALUE>oh / played cards //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Oh, played cards.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
